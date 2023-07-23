@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.vending-machine {
+  width: 600px;
+}
+
+.soda {
+  width: 300px;
+}
